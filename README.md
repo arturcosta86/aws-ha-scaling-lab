@@ -95,9 +95,9 @@ As capturas de tela abaixo comprovam o funcionamento do balanceamento de carga. 
 ### 1. Requisição Atendida pelo Servidor 1
 * **Descrição:** A primeira atualização da página foi direcionada pelo Load Balancer para a primeira instância EC2 do grupo.
 
-![Requisição no Servidor 1](Evidência%20-%20lab%20-%20Load%20Balancer%20e%20Auto%20Scaling%20-%20servidor%201.png)
+![Requisição no Servidor 1](https://github.com/arturcosta86/aws-ha-scaling-lab/blob/main/Evid%C3%AAncia%20-%20lab%20-%20Load%20Balancer%20e%20Auto%20Scaling%20-%20servidor%201.png)
 
 ### 2. Requisição Atendida pelo Servidor 2
 * **Descrição:** Uma nova atualização da página foi direcionada para a segunda instância EC2, demonstrando que o balanceamento de carga está distribuindo o tráfego ativamente.
 
-![Requisição no Servidor 2](Evidência%20-%20lab%20-%20Load%20Balancer%20e%20Auto%20Scaling%20-%20servidor%202.png)
+![Requisição no Servidor 2](https://github.com/arturcosta86/aws-ha-scaling-lab/blob/main/Evid%C3%AAncia%20-%20lab%20-%20Load%20Balancer%20e%20Auto%20Scaling%20-%20servidor%202.png)
